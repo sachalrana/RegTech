@@ -9,7 +9,10 @@ Requirements capture in large financial regulatory and compliance documents is a
 The folder **RegTechInterface** has the code for the front-end which is used by the compliance officers to approve/disapprove a requirement.
 
 The folder **PythonCode** has the code for the scraping regulations from U.S Federal Government website and storing them in a SQL database. 
-The file **NLTK_Capstone_FinalVersion** has code where all the processing is being done on the text scraped.
+
+The file *NLTK_Capstone_FinalVersion.py* has code where all the processing is being done on the text scraped.
+The file *requirementsloader.py* has code which stores the scraped requirements in a SQL Database 
+The file *ScrapingRegulations.py* has code which scrapes the data from the Federal Government website and organizes them by Chapter
 
 ## Screenshots
 
