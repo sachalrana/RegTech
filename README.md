@@ -12,9 +12,12 @@ The folder **PythonCode** has the code for the scraping regulations from U.S Fed
 The file **NLTK_Capstone_FinalVersion** has code where all the processing is being done on the text scraped.
 
 ## Screenshots
-
+![alt text]()
 ### Dashboard
 The following dashboard gives the user an overview of all the requirements; the chapter it is from along with how many compliance officers approve of the requirement. 
 
+![](https://github.com/sachalrana/RegTech/blob/master/Dashboard/DB1.PNG)
+
 It also shows the developers information related to this particular project on how well the project performed.  
 
+![](https://github.com/sachalrana/RegTech/blob/master/Dashboard/DB2.PNG)
