@@ -1,0 +1,16 @@
+D:\Visual Studio 2017\Projects\RegTechInterface\RegTechInterface\obj\Debug\RegTechInterface.Form1.resources
+D:\Visual Studio 2017\Projects\RegTechInterface\RegTechInterface\obj\Debug\RegTechInterface.LoginScreen.resources
+D:\Visual Studio 2017\Projects\RegTechInterface\RegTechInterface\obj\Debug\RegTechInterface.Properties.Resources.resources
+D:\Visual Studio 2017\Projects\RegTechInterface\RegTechInterface\obj\Debug\RegTechInterface.csproj.GenerateResource.Cache
+D:\Visual Studio 2017\Projects\RegTechInterface\RegTechInterface\obj\Debug\RegTechInterface.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Projects\RegTechInterface\RegTechInterface\bin\Debug\RegTechInterface.exe.config
+D:\Visual Studio 2017\Projects\RegTechInterface\RegTechInterface\bin\Debug\RegTechInterface.exe
+D:\Visual Studio 2017\Projects\RegTechInterface\RegTechInterface\bin\Debug\RegTechInterface.pdb
+D:\Visual Studio 2017\Projects\RegTechInterface\RegTechInterface\obj\Debug\RegTechInterface.exe
+D:\Visual Studio 2017\Projects\RegTechInterface\RegTechInterface\obj\Debug\RegTechInterface.pdb
+D:\Visual Studio 2017\Projects\RegTechInterface\RegTechInterface\obj\Debug\RegTechInterface.ChapterSelection.resources
+D:\Visual Studio 2017\Projects\RegTechInterface\RegTechInterface\bin\Debug\RegTechInterface.exe.manifest
+D:\Visual Studio 2017\Projects\RegTechInterface\RegTechInterface\bin\Debug\RegTechInterface.application
+D:\Visual Studio 2017\Projects\RegTechInterface\RegTechInterface\obj\Debug\RegTechInterface.exe.manifest
+D:\Visual Studio 2017\Projects\RegTechInterface\RegTechInterface\obj\Debug\RegTechInterface.application
+D:\Visual Studio 2017\Projects\RegTechInterface\RegTechInterface\obj\Debug\RegTechInterface.csprojResolveAssemblyReference.cache
